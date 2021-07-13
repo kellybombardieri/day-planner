@@ -15,3 +15,5 @@ To access this code you will need to have Visual Studio Code downloaded onto you
 Used as a day planner that runs the hours of the work day. Can be used as a starter code for a calendar or more in depth planner.
 
 # Website Link
+url : https://kellybombardieri.github.io/day-planner/
+
