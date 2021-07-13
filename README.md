@@ -1,3 +1,7 @@
+
+<img width="1241" alt="Screen Shot 2021-07-13 at 11 25 45 pm" src="https://user-images.githubusercontent.com/83152269/125464529-38007026-94e6-4ec5-a45d-dc742fcbeb76.png">
+
+
 # day-planner
 
 # About the Project
